@@ -1,0 +1,69 @@
+decor.transporteur#v1;Transporteur
+null
+@@@decor.plateauSemiAuto#pave;Plateau semi auto
+Si le joueur tire sur cette plateforme 
+et qu'il a le pourvoir de prendre  elle 
+se déplace vers sa position final.
+Si le joueur monte sur cette plateforme
+elle se déplace vers sa position final.
+Cette plateforme revient automatiquement
+à ça position initial après s'être déplacé
+à ça position final.
+@@@decor.plateauAuto#model;Plateau auto
+cette plateforme ce déplace automatique
+ entre sa position final et initial.
+@@@decor.trampoline#ventilateur;Trampoline
+Plateforme qui permet de sauter très haut
+pour atteindre des endroits inaccessibles
+avec le saut normal.
+@@@decor.matela#model;Matela
+null
+@@@decor.teleporteur#m1;Teleporteur
+Si le joueur à le pouvoir de téléportation,
+s'il tire sur cette borne il est téléporté
+sur la plateforme de téléportation ayant le
+même numéro.
+@@@objet.act;Nid
+null
+@@@objet.consomable.tcell#v;T cell
+null
+@@@objet.consomable.cell#v;Cell
+null
+@@@decor.porte_coulissanteZ#verte;Porte Verte
+Porte qui s'ouvre avec le pouvoir :
+porte_verte
+@@@decor.porte_coulissanteZ#rouge;Porte Rouge
+Porte qui s'ouvre avec le pouvoir :
+porte_rouge
+@@@decor.porte_coulissanteZ#bleue;Porte Bleue
+Porte qui s'ouvre avec le pouvoir :
+porte_bleue
+@@@objet.piege#v;Piege
+null
+@@@objet.pv;Porte
+null
+@@@objet.portail#boite;Portail
+Portail qui permet d'accéder à un Boss
+@@@decor.plateforme_teleportation#m1;Plateform teleporteur
+Plateforme sur laquelle le joueur
+est téléporté quand il tire sur 
+une borne de téléportation ayant 
+le même numéro.
+
+@@@decor.interrupteur#doc;Interrupteur
+Si le joueur touche cette le bout de
+cet objet, une porte s'ouvre.
+@@@decor.acroche#model;Acroche pour grappin
+Si le joueur à le pouvoir du grappin et
+qu'il tire sur cette objet il est transporté 
+vers lui.
+@@@decor.porte_avec_interrupteur#modelX;Porte avec interrupteur
+Pour ouvrir cette porte il faut trouver l'interrupteur
+correspondant
+@@@habitant#paul;Habitant du Kube
+null
+@@@decor.porte_habitant#X;Porte ouverte parles habitants
+null
+@@@objet.transfert_tete#model;Portail pour tête
+null
+@@@
