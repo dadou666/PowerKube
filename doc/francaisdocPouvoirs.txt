@@ -1,0 +1,40 @@
+@@@objet.pouvoir#rcell;rcell
+null
+@@@objet.pouvoir#porte_bleue;porte_bleue
+null
+@@@objet.pouvoir#arme;arme
+Ce pouvoir permet de lancer des anneaux jaune.
+Il permet de détruire les têtes.
+@@@objet.pouvoir#prendre;prendre
+Ce pouvoir améliore l'arme en permettant
+de déclencher des plateaux en leur tirant dessus,
+de récupérer des objets en leur tirant dessus,
+d'ouvrir des portes en leur tirant dessus.
+@@@objet.pouvoir#transport;transport
+Ce pouvoir permet d'utiliser 
+les plateformes de transport qui 
+permettent de voler vers 
+des positions inaccessible
+@@@objet.pouvoir#teleporte;teleporte
+null
+@@@objet.pouvoir#grappin;grappin
+null
+@@@objet.pouvoir#porte_rouge;porte_rouge
+null
+@@@objet.pouvoir#eco;eco
+null
+@@@objet.pouvoir#immobilite;immobilite
+null
+@@@objet.pouvoir#vision;vision
+null
+@@@objet.pouvoir#porte_verte;porte_verte
+Ce pouvoir permet d'ouvrir les portes vertes.
+@@@objet.pouvoir#voler;voler
+null
+@@@objet.pouvoir#bouclier;bouclier
+Ce pouvoir permet de ne pas mourir quand on
+saute de trop haut, et de perde de l'énergie à la place
+@@@objet.pouvoir#saut;saut
+null
+@@@objet.pouvoir#vitesse;vitesse
+null

@@ -1,0 +1,7 @@
+Avancer Z
+Reculer S
+Pas à gauche Q
+Pas à droite D
+Saut Espace
+Inventaire Bouton souris gauche
+Tirer Bouton souris droit

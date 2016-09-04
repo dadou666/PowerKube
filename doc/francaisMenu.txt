@@ -1,0 +1,7 @@
+@@@Tetes;Tetes
+@@@Pouvoirs;Pouvoirs
+@@@Decors;Decors
+@@@Charger;Charger
+@@@Sauvegarder;Sauvegarder
+@@@Controlles;Controlles
+@@@Quitter;Quitter

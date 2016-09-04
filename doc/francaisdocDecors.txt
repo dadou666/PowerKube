@@ -1,4 +1,4 @@
-decor.transporteur#v1;Transporteur
+@@@decor.transporteur#v1;Transporteur
 null
 @@@decor.plateauSemiAuto#pave;Plateau semi auto
 Si le joueur tire sur cette plateforme 
@@ -65,5 +65,5 @@ null
 @@@decor.porte_habitant#X;Porte ouverte parles habitants
 null
 @@@objet.transfert_tete#model;Portail pour tête
-null
-@@@
+une têtes peut être construite dans cette cage
+tant que celle-ci tourne.
