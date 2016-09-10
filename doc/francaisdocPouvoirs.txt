@@ -38,3 +38,5 @@ saute de trop haut, et de perde de l'énergie à la place
 null
 @@@objet.pouvoir#vitesse;vitesse
 null
+@@@objet.pouvoir#vitre;vitre
+null
