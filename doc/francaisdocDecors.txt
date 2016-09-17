@@ -1,5 +1,7 @@
 @@@decor.transporteur#v1;Transporteur
-null
+Avec le pouvoir de transport activé, cet objet
+permet de transporter en le faisant voler vers
+un autre endroit du monde.
 @@@decor.plateauSemiAuto#pave;Plateau semi auto
 Si le joueur tire sur cette plateforme 
 et qu'il a le pourvoir de prendre  elle 
@@ -17,18 +19,20 @@ Plateforme qui permet de sauter très haut
 pour atteindre des endroits inaccessibles
 avec le saut normal.
 @@@decor.matela#model;Matela
-null
+Le joueur peut sauter sur cette objet de n'importe 
+quel hauteur.
 @@@decor.teleporteur#m1;Teleporteur
 Si le joueur à le pouvoir de téléportation,
 s'il tire sur cette borne il est téléporté
 sur la plateforme de téléportation ayant le
 même numéro.
-@@@objet.act;Nid
-null
+@@@objet.act;Activateur
+Cette objet s'il tourne informe de la présence d'un réseau
+de matérialisation de têtes.
 @@@objet.consomable.tcell#v;T cell
-null
+Cette objet permet d'augmenter la quantité d'énergie transportable.
 @@@objet.consomable.cell#v;Cell
-null
+Cette objet permet d'augmenter la quantité d'énergie.
 @@@decor.porte_coulissanteZ#verte;Porte Verte
 Porte qui s'ouvre avec le pouvoir :
 porte_verte
@@ -39,9 +43,14 @@ porte_rouge
 Porte qui s'ouvre avec le pouvoir :
 porte_bleue
 @@@objet.piege#v;Piege
-null
+Si le joueur marche sur cette objet il peut
+se faire écraser.
+Le pouvoir de vision permet de rendre transparent 
+ce type d'objet.
 @@@objet.pv;Porte
-null
+Si le joueur touche cette objet la porte s'ouvre.
+Le pouvoir de vision permet de rendre transparent 
+ce type d'objet.
 @@@objet.portail#boite;Portail
 Portail qui permet d'accéder à un Boss
 @@@decor.plateforme_teleportation#m1;Plateform teleporteur
@@ -49,7 +58,6 @@ Plateforme sur laquelle le joueur
 est téléporté quand il tire sur 
 une borne de téléportation ayant 
 le même numéro.
-
 @@@decor.interrupteur#doc;Interrupteur
 Si le joueur touche cette le bout de
 cet objet, une porte s'ouvre.
@@ -61,9 +69,16 @@ vers lui.
 Pour ouvrir cette porte il faut trouver l'interrupteur
 correspondant
 @@@habitant#paul;Habitant du Kube
-null
+Cet objet est un habitant du kube, il peut ouvrir des
+portes.
+Il faut lui tirer dessus pour qu'il se déplace vers ça
+position final.
 @@@decor.porte_habitant#X;Porte ouverte parles habitants
-null
+Il faut trouver l'habitant qui peut ouvrir cette porte.
 @@@objet.transfert_tete#model;Portail pour tête
 une têtes peut être construite dans cette cage
 tant que celle-ci tourne.
+@@@decor.porte_activateur#X;Porte activateur
+Porte qui s'ouvre quand certain activateurs ont été détruit
+Il font détruire toute les têtes des activateurs 
+associé à cette porte pour l'ouvrir.

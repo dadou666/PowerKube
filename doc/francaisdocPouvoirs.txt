@@ -1,7 +1,7 @@
 @@@objet.pouvoir#rcell;rcell
-null
+Ce pouvoir permet d'activer les cellules de transport et d'énergie inactive.
 @@@objet.pouvoir#porte_bleue;porte_bleue
-null
+Ce pouvoir permet d'ouvir les portes bleues
 @@@objet.pouvoir#arme;arme
 Ce pouvoir permet de lancer des anneaux jaune.
 Il permet de détruire les têtes.
@@ -16,27 +16,35 @@ les plateformes de transport qui
 permettent de voler vers 
 des positions inaccessible
 @@@objet.pouvoir#teleporte;teleporte
-null
+Ce pouvoir permet en tirant sur un activateur de
+téléportation, de se téléporter sur la plateforme
+correspondante.
 @@@objet.pouvoir#grappin;grappin
-null
+Ce pouvoir permet d'etre transporter vers l'acroche
+de grappin sur laquelle on vient de tirer.
 @@@objet.pouvoir#porte_rouge;porte_rouge
-null
+Ce pouvoir permet d'ouvir les portes rouge
 @@@objet.pouvoir#eco;eco
-null
+Ce pouvoir permet de ne plus consommer d'energie
+quand on tire.
 @@@objet.pouvoir#immobilite;immobilite
-null
+Ce pouvoir permet d'endormir toutes
+les têtes d'un activateur, toutes les têtes 
+se reveille si le joueur tire sur une tête.
 @@@objet.pouvoir#vision;vision
-null
+Ce pouvoir permet de rendre transparent les pieges et
+les portes cachées.
 @@@objet.pouvoir#porte_verte;porte_verte
 Ce pouvoir permet d'ouvrir les portes vertes.
 @@@objet.pouvoir#voler;voler
-null
+Ce pouvoir permet de voler, il consomme de l'énergie.
 @@@objet.pouvoir#bouclier;bouclier
-Ce pouvoir permet de ne pas mourir quand on
-saute de trop haut, et de perde de l'énergie à la place
+Ce pouvoir permet d'augmenteur la hauteur de laquelle
+le joueur peut sauter sans mourir.
 @@@objet.pouvoir#saut;saut
-null
+Ce pouvoir permet de sauter plus haut.
 @@@objet.pouvoir#vitesse;vitesse
-null
+Ce pouvoir pemet d'augmenter la vitesse de déplacement,
+il consomme de l'énergie.
 @@@objet.pouvoir#vitre;vitre
-null
+Ce pouvoir permet de tirer à travers les vitres.

@@ -3,5 +3,6 @@ Reculer S
 Pas à gauche Q
 Pas à droite D
 Saut Espace
-Inventaire Bouton souris gauche
+Activer pouvoirs, bouton souris gauche
 Tirer Bouton souris droit
+Quand la cible est verte et qu'on regarde en bas, on peut sauter sans mourir.
