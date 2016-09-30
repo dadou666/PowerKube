@@ -1,12 +1,13 @@
 @@@objet.pouvoir#rcell;rcell
-Ce pouvoir permet d'activer les cellules de transport et d'énergie inactive.
+Activer les cellules de transport 
+et d'énergie inactive.
 @@@objet.pouvoir#porte_bleue;porte_bleue
-Ce pouvoir permet d'ouvir les portes bleues
+Ouvir les portes bleues
 @@@objet.pouvoir#arme;arme
-Ce pouvoir permet de lancer des anneaux jaune.
+Lancer des anneaux jaune.
 Il permet de détruire les têtes.
 @@@objet.pouvoir#prendre;prendre
-Ce pouvoir améliore l'arme en permettant
+Améliore l'arme en permettant
 de déclencher des plateaux en leur tirant dessus,
 de récupérer des objets en leur tirant dessus,
 d'ouvrir des portes en leur tirant dessus.

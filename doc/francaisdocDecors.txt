@@ -1,7 +1,7 @@
 @@@decor.transporteur#v1;Transporteur
 Avec le pouvoir de transport activé, cet objet
-permet de transporter en le faisant voler vers
-un autre endroit du monde.
+permet d'être transporté vers un autre endroit
+du monde.
 @@@decor.plateauSemiAuto#pave;Plateau semi auto
 Si le joueur tire sur cette plateforme 
 et qu'il a le pourvoir de prendre  elle 
@@ -20,17 +20,18 @@ pour atteindre des endroits inaccessibles
 avec le saut normal.
 @@@decor.matela#model;Matela
 Le joueur peut sauter sur cette objet de n'importe 
-quel hauteur.
+quel hauteur sans mourir.
 @@@decor.teleporteur#m1;Teleporteur
-Si le joueur à le pouvoir de téléportation,
-s'il tire sur cette borne il est téléporté
-sur la plateforme de téléportation ayant le
-même numéro.
+Avec le pouvoir de téléportation,
+en tirant sur cette borne, le joueur est
+téléporté sur la plateforme de téléportation
+ayant le même numéro.
 @@@objet.act;Activateur
 Cette objet s'il tourne informe de la présence d'un réseau
 de matérialisation de têtes.
 @@@objet.consomable.tcell#v;T cell
-Cette objet permet d'augmenter la quantité d'énergie transportable.
+Cette objet permet d'augmenter la quantité d'énergie
+transportable.
 @@@objet.consomable.cell#v;Cell
 Cette objet permet d'augmenter la quantité d'énergie.
 @@@decor.porte_coulissanteZ#verte;Porte Verte
@@ -43,23 +44,24 @@ porte_rouge
 Porte qui s'ouvre avec le pouvoir :
 porte_bleue
 @@@objet.piege#v;Piege
-Si le joueur marche sur cette objet il peut
-se faire écraser.
+Si le joueur marche sur cette objet il se fait
+écraser.
 Le pouvoir de vision permet de rendre transparent 
-ce type d'objet.
+ce type d'objet pour qu'il soit repérable.
 @@@objet.pv;Porte
 Si le joueur touche cette objet la porte s'ouvre.
 Le pouvoir de vision permet de rendre transparent 
-ce type d'objet.
+ce type d'objet pour qu'il soit repérable.
 @@@objet.portail#boite;Portail
 Portail qui permet d'accéder à un Boss
+ou à un niveau bonus.
 @@@decor.plateforme_teleportation#m1;Plateform teleporteur
 Plateforme sur laquelle le joueur
-est téléporté quand il tire sur 
+est positionné quand il tire sur 
 une borne de téléportation ayant 
 le même numéro.
 @@@decor.interrupteur#doc;Interrupteur
-Si le joueur touche cette le bout de
+Si le joueur touche le bout de
 cet objet, une porte s'ouvre.
 @@@decor.acroche#model;Acroche pour grappin
 Si le joueur à le pouvoir du grappin et
